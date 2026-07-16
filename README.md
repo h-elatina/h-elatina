@@ -1,8 +1,9 @@
 # 🌷🌷🌷
 "He who has a why to live for can bear with almost any how" (Nietzsche, 1889)  
 
-Hina 🍰 July 19
+## Your favorite programmer's favorite programmer
 
+🍰 July 19
 ## 🗨️ Contact me!
 - Discord: @h-elatina
 
