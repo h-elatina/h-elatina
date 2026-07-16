@@ -1,14 +1,14 @@
-<!-- <div align="center">
-  <img src="" alt="banner">
+<div align="center">
+  <img src="tulip-fields-netherlands.jpg" alt="banner">
 </div>
 
 <br>
 
 <div align="center">
-</div> -->
-
 # 🌷🌷🌷
-"He who has a why to live for can bear with almost any how" (Nietzsche, 1889)  
+"He who has a why to live for can bear with almost any how" (Nietzsche, 1889) 
+</div> 
+
 
 ## Your favorite programmer's favorite programmer
 - 🍰 July 19, 2006
