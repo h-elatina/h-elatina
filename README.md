@@ -1,6 +1,7 @@
-# 🏃‍➡️ Fail faster, succeed sooner 🏃  
+# 🌷🌷🌷
+"He who has a why to live for can bear with almost any how" (Nietzsche, 1889)  
 
-🍰 July 19
+Hina 🍰 July 19
 
 ## 🗨️ Contact me!
 - Discord: @h-elatina
