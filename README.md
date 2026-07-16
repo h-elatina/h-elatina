@@ -1,3 +1,12 @@
+<!-- <div align="center">
+  <img src="" alt="banner">
+</div>
+
+<br>
+
+<div align="center">
+</div> -->
+
 # 🌷🌷🌷
 "He who has a why to live for can bear with almost any how" (Nietzsche, 1889)  
 
@@ -6,7 +15,29 @@
 - 🩵🩷 [@chuachups](https://github.com/chuachups)
 
 ## 🗨️ Contact me!
-- Discord: @h-elatina
+<details>
+
+<summary>👆</summary>
+
+<br>
+
+✅ = Active
+⚰️ = Inactive
+❌ = None
+
+| `Platform`  | `Status` | `Notes`                                                            |
+| ----------- | -------- | ------------------------------------------------------------------ |
+| Discord     | ✅       | `Hina (h-elatina)`                                                 |
+| Email       | ✅       |                                                                    |
+| Messenger   | ✅       |                                                                    |
+| Instagram   | ⚰️       | I only use this for reels                                          |
+| GitHub      | ⚰️       |                                                                    |
+| LinkedIn    | ⚰️       |                                                                    |
+| Reddit      | ⚰️       |                                                                    |
+| TikTok      | ⚰️       |                                                                    |
+| Twitter     | ✅       | [`@h-elatina`](https://twitter.com/h-elatina)                      |
+
+</details>
 
 ## 📚 Currently Learning
 - Object-oriented Programming
