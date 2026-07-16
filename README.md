@@ -5,7 +5,8 @@
 <br>
 
 <div align="center">
-# 🌷🌷🌷
+🌷🌷🌷
+  
 "He who has a why to live for can bear with almost any how" (Nietzsche, 1889) 
 </div> 
 
