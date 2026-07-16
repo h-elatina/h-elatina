@@ -48,6 +48,7 @@
 - Linear Algebra
 - Database Management
 - Branding and Graphic Design
+- Social Media Management
 - Audio Mixing
 - Video Direction, Storyboarding and Editing
 - Art stuff! \[anatomy, perspective, light, rendering, fashion design, background design \]
