@@ -17,13 +17,12 @@
 ## 🗨️ Contact me!
 <details>
 
-<summary>👆</summary>
+<summary>📞</summary>
 
 <br>
 
 ✅ = Active
 ⚰️ = Inactive
-❌ = None
 
 | `Platform`  | `Status` | `Notes`                                                            |
 | ----------- | -------- | ------------------------------------------------------------------ |
