@@ -2,8 +2,9 @@
 "He who has a why to live for can bear with almost any how" (Nietzsche, 1889)  
 
 ## Your favorite programmer's favorite programmer
+- 🍰 July 19, 2006
+- 🩵🩷 [@chuachups](https://github.com/chuachups)
 
-🍰 July 19
 ## 🗨️ Contact me!
 - Discord: @h-elatina
 
@@ -21,10 +22,12 @@
 - Art stuff! \[anatomy, perspective, light, rendering, fashion design, background design \]
 
 ## Hobbies
-- Art. A creative since the age of 7!
-- Singing. Hoping to upload covers soon 🙏
-- Jogging. I usually jog with a friend
-- Talking. More perspectives are always nice!
+- Art 🎨 A creative since the age of 7!
+- Singing 🎙️ Hoping to upload covers soon 🙏
+- Music 🎵 YOASOBI, Yorushika, Zutomayo 🙂‍↕️
+- Animanga 📖 Still looking to update my anilist. I love philosophy, mystery, high fantasy, and wlw 🩷
+- Jogging 🏃‍➡️🏃‍♀️‍➡️ I usually jog around UPD with my friend [@ReddLeaf](https://github.com/ReddLeaf)!
+- Talking 🗣️ More perspectives are always nice to have 💡
 
 <!--
 **h-elatina/h-elatina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
